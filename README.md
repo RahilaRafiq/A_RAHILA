@@ -2,7 +2,7 @@
 Npm package to be used for Lab1
 
 ## How to clone it
-Follow these steps:
+Follow these steps: 26151
 1. Install git on your machine: https://git-scm.com/download/win
 2. Clone this repository:
 ```sh
